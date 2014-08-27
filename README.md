@@ -11,7 +11,9 @@ alias razor="docker run --rm -it -e RAZOR_API=$RAZOR_API curator/pe-razor-client
 
 Usage
 =============
+```
 razor nodes
+```
 
-*Justin Clayton*
+*As Justin Clayton would say:*
 > You did it!
